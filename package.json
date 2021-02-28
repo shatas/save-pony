@@ -1,0 +1,18 @@
+{
+  "name": "pony-challange",
+  "version": "1.0.0",
+  "description": "pony challange for trustpilot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install:client": "cd ./client && exec npm install",
+    "install:server": "cd ./server && exec npm install",
+    "build": "cd ./client && exec npm run build",
+    "start": "cd ./server && exec npm run start"
+  },
+  "author": "aurimas satas",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^15.8.0"
+  }
+}
