@@ -1,7 +1,7 @@
 # Getting Started with Pony App
 
 ## Available Scripts
-#In the project directory, you run:
+In the project directory, you run:
 
 ### Install node modules
 
