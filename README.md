@@ -19,7 +19,6 @@ Runs the app in the server mode.\
 Open [http://localhost:9000](http://localhost:9000) to view it in the browser.
 
 The page will load and you could see 'Create' button to create maze.
-You will also see any lint errors in the console.
 
 ## Testing & Development environment
 
